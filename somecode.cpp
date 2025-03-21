@@ -3,5 +3,6 @@
 using namespace std;
 
 int main(){
-	cout << "Somecode.cpp";
+	cout << "Hello world";
+
 }
